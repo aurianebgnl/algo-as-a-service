@@ -1,0 +1,5 @@
+// Sauvegarder les dépendances pour les réinstaller facilement
+// avec la commande : pip install -r requirements.txt
+
+fastapi
+uvicorn
